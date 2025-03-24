@@ -23,6 +23,11 @@ curl -fsSL https://bun.sh/install | bash
 ```bash
 bun setup
 ```
+Or windows 
+
+```bash
+bun setupwin 
+```
 
 
 3. Start the Websocket server
