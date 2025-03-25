@@ -1,3 +1,10 @@
+
+
+# Важно!
+В данном репозитории добавлены скрипты для обновления Windows. Папка `my-nuxt-app` представляет собой пример реализации и может быть удалена, если она вам не нужна. Остальные файлы необходимы для установки плагина. Подробности по установке можно узнать из видео на YouTube: [Смотреть видео](https://www.youtube.com/watch?v=_-quiSyf14E&t=4s) или в оригинальном README ниже.
+
+---
+
 # Cursor Talk to Figma MCP
 
 This project implements a Model Context Protocol (MCP) integration between Cursor AI and Figma, allowing Cursor to communicate with Figma for reading designs and modifying them programmatically.
